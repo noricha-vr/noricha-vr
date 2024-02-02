@@ -1,27 +1,42 @@
 # のりちゃん (Noricha)
 
-### ふるゆわプロンプトエンジニア & VRChatエンスージアスト
+### ふるゆわプロンプトエンジニア
 
-👋 こんにちは！私はのりちゃん、VRChatとプログラミングを愛する開発者です。アニメも大好きで、技術とクリエイティブな世界を融合させることに情熱を注いでいます。
+👋 こんにちは！プログラマーを廃業して、プロンプトエンジニアになったのりちゃんです。
+プログラミングとアニメが好物です。
 
-- 🌐 VRChatユーザー名: `noricha`
-- 🕒 VRChatスタート: 2022年4月
-- 📚 好きなこと: アニメ視聴、コーディング、VRの探索
-- 📅 活動: 隔週木曜日に**個人開発集会**と**OSS集会**を開催
+### VRChat
+- 🌐 ユーザー名: [noricha](https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad)
+- 🕒 誕生日: 2022年4月
+
+#### 集会
+隔週木曜日
+21時〜 **個人開発集会**
+22時〜　　**OSS集会**
+を開催しています
+
+・個人開発に興味がある人
+・個人開発をやっている人
+・個人開発の悩みを共有したい人
+など
+
+みんなで個人開発やプログラミング関係の話題でワイワイする集会です😊
+気軽に遊びに来てね〜
+
+HP：[https://bit.ly/3uhoOIQ](https://bit.ly/3uhoOIQ)
+Group:[https://vrchat.com/home/group/grp_20643dff-09bf-4003-bdd4-4c3233d63bce](https://vrchat.com/home/group/grp_20643dff-09bf-4003-bdd4-4c3233d63bce)
+Discord：[https://discord.gg/2pCWj9RVeG](https://discord.gg/2pCWj9RVeG)
 
 ## プロジェクト
-現在、**WebScreen**というプロジェクトに取り組んでいます。これは、VRChat内の動画プレイヤーでWebページ、写真、PDFを表示するための動画変換サービスです。WebScreenを使えば、VRChat内で簡単に情報共有ができます。
-
-- 🌐 [WebScreen公式サイト](https://web-screen.net/)
+**[WebScreen](https://web-screen.net/)** VRChat内の動画プレイヤーでWebページ、写真、PDFを表示するための動画変換サービスです。WebScreenを使えば、VRChat内で簡単に情報共有ができます。
 
 ### WebScreenの特徴
 - **Webページを動画に変換:** VRChat内で動画プレイヤーにWebページを表示。
 - **写真を動画に変換:** VRChat内で友達と写真を共有。
 - **PDFを動画に変換:** プレゼンテーションをVR内で簡単に共有。
+- ブラウザを使って自分のパソコンの画面を動画プレイヤーにライブ配信！（遅延が1分弱あるのと、やや不安定なのが課題）
 
-## コミュニティとのつながり
+## リンク
 - Twitter: [@noricha_vr](https://twitter.com/noricha_vr)
-- VRChat: [norichaのプロフィール](https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad)
-- Discord: [参加する](https://discord.gg/Ptss8Exj22)
 
-フォローやフレンド登録、プロジェクトへの参加やフィードバック、大歓迎です！一緒にVRChatの世界を探索し、創造的なプロジェクトを展開しましょう。😊
+フォローやフレンド登録、プロジェクトへの参加やフィードバック、大歓迎です！ 一緒にVRChat・開発を楽しみましょう🎉
