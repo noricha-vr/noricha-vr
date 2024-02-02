@@ -5,7 +5,7 @@
 
 フォローやフレンド登録、プロジェクトへの参加やフィードバック、大歓迎です！ 
 
-一緒にVRChat・開発を楽しみましょう🥳
+一緒にVRChatや開発を楽しもう！🥳
 
 - Twitter（X）: [@noricha_vr](https://twitter.com/noricha_vr)
 - VRChat: [noricha](https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad)
