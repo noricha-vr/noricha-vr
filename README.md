@@ -1,14 +1,30 @@
 # のりちゃん (Noricha)
 
+はじめまして、のりちゃんです。
+プログラミングとアニメが好物です。
+
+フォローやフレンド登録、プロジェクトへの参加やフィードバック、大歓迎です！ 
+
+一緒にVRChat・開発を楽しみましょう🥳
+
+- Twitter（X）: [@noricha_vr](https://twitter.com/noricha_vr)
+- VRChat: [noricha](https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad)
+- Discord： noricha.vr
+
 ### ふるゆわプロンプトエンジニア
 
-こんにちは！プログラマーを廃業して、プロンプトエンジニアになったのりちゃんです。プログラミングとアニメが好物です。
+プログラマーを廃業してプロンプトエンジニアになりました。
 
-## VRChat
-- 🌐 ユーザー名: [noricha](https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad)
-- 🕒 誕生日: 2022年4月
+Python ＋ Django でウェブアプリケーションを作ることが多いです。
 
-### 集会
+バックエンドの開発が多くフロントエンドは苦手です。
+
+Vanilla JSを使います（最近は、Svelteを勉強中…）
+
+## VRChat 集会情報
+
+![個人開発集会](./image/kojin_game.png)
+
 隔週木曜日
 
 - 21時〜 **個人開発集会**
@@ -43,7 +59,26 @@
 - **PDFを動画に変換:** プレゼンテーションをVR内で簡単に共有。
 - ブラウザを使って自分のパソコンの画面を動画プレイヤーにライブ配信！（遅延が1分弱あるのと、やや不安定なのが課題）
 
-## リンク
-- Twitter: [@noricha_vr](https://twitter.com/noricha_vr)
+### アニメ
 
-フォローやフレンド登録、プロジェクトへの参加やフィードバック、大歓迎です！ 一緒にVRChat・開発を楽しみましょう🎉
+- [Vivy -Fluorite Eye's Song-](https://vivy-portal.com/)
+- [攻殻機動隊 SAC_2045](https://www.ghostintheshell-sac2045.jp/)
+- [無職転生 ～異世界行ったら本気だす～](https://mushokutensei.jp/)
+- [マイホームヒーロー](https://myhomehero-anime.com/)
+- [盾の勇者の成り上がり](http://shieldhero-anime.jp/1st/)
+- [Re:ゼロから始める異世界生活](http://re-zero-anime.jp/tv/)
+- [魔女の旅々](https://majotabi.jp/)
+- [その着せ替え人形は恋をする](https://bisquedoll-anime.com/)
+- [転生したらスライムだった件](https://www.ten-sura.com/)
+- [いぬやしき](http://www.inuyashiki-project.com/)
+- [寄生獣 セイの格率](https://www.vap.co.jp/kiseiju/)
+- [サクラダリセット](https://www.youtube.com/watch?v=gjre2tLeB_E)
+- [慎重勇者](http://shincho-yusha.jp/)
+- [蟲師](https://mushishi-anime.com/)
+- [ハコヅメ〜交番女子の逆襲〜](https://hakozume-anime.com/)
+- [スパイ教室](https://spyroom-anime.com/)
+
+
+あたりが好きです。おすすめのアニメがあったら教えてね😋
+
+
