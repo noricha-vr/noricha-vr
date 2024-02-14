@@ -79,6 +79,7 @@ Vanilla JSを使います（最近は、Svelteを勉強中…）
 - [サマータイムレンダ](https://www.youtube.com/watch?v=y25UYqY_1ck)
 - [スパイ教室](https://spyroom-anime.com/)
 - [ハコヅメ〜交番女子の逆襲〜](https://hakozume-anime.com/)
+- [ミギとダリ](https://www.youtube.com/watch?v=n2lxOSphDD4&t=1s)
 
 
 あたりが好きです。おすすめのアニメがあったら教えてね😋
