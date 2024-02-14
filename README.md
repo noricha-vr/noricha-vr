@@ -75,8 +75,10 @@ Vanilla JSを使います（最近は、Svelteを勉強中…）
 - [サクラダリセット](https://www.youtube.com/watch?v=gjre2tLeB_E)
 - [慎重勇者](http://shincho-yusha.jp/)
 - [蟲師](https://mushishi-anime.com/)
-- [ハコヅメ〜交番女子の逆襲〜](https://hakozume-anime.com/)
+- [ホリミヤ](https://www.youtube.com/watch?v=JuFnuB86YAs)
+- [サマータイムレンダ](https://www.youtube.com/watch?v=y25UYqY_1ck)
 - [スパイ教室](https://spyroom-anime.com/)
+- [ハコヅメ〜交番女子の逆襲〜](https://hakozume-anime.com/)
 
 
 あたりが好きです。おすすめのアニメがあったら教えてね😋
