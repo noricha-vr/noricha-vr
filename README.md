@@ -11,7 +11,7 @@
 - VRChat: [noricha](https://vrchat.com/home/user/usr_01b02b0e-58b5-4558-a6ca-56dd32dafdad)
 - Discord： noricha.vr
 
-### ふるゆわプロンプトエンジニア
+### ゆるふわプロンプトエンジニア
 
 プログラマーを廃業してプロンプトエンジニアになりました。
 
