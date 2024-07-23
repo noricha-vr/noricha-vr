@@ -80,7 +80,7 @@ Vanilla JSを使います（最近は、Svelteを勉強中…）
 - [スパイ教室](https://spyroom-anime.com/)
 - [ハコヅメ〜交番女子の逆襲〜](https://hakozume-anime.com/)
 - [ミギとダリ](https://www.youtube.com/watch?v=n2lxOSphDD4&t=1s)
-
+- [Re:CREATORS（レクリエイターズ）](https://recreators.tv/)
 
 あたりが好きです。おすすめのアニメがあったら教えてね😋
 
