@@ -42,7 +42,7 @@ Vanilla JSを使います（最近は、Svelteを勉強中…）
 
 気軽に遊びに来てね〜
 
-- HP：[https://bit.ly/3uhoOIQ](https://bit.ly/3uhoOIQ)
+- HP：[https://bit.ly/3uhoOIQ](https://kojin.works)
 - Group:[https://vrchat.com/home/group/grp_20643dff-09bf-4003-bdd4-4c3233d63bce](https://vrchat.com/home/group/grp_20643dff-09bf-4003-bdd4-4c3233d63bce)
 - Discord：[https://discord.gg/2pCWj9RVeG](https://discord.gg/2pCWj9RVeG)
 
